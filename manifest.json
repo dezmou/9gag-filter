@@ -4,7 +4,8 @@
     "description": "Burry the shitposts",
     "manifest_version": 2,
     "permissions": [
-        "storage"
+        "storage",
+        "<all_urls>"
     ],
     "content_scripts": [
         {
